@@ -6,7 +6,7 @@ Text-to-image synthesis using text-conditional deep convolutional generative adv
 |![architecture](./assets/architecture.png) | ![gan_cls](./assets/cls_algorithm.png) |
 | Architecture of the text-conditional deep convolutional generative adversarial network. Taken from [Reed et al., 2014](https://arxiv.org/abs/1605.05396).| GAN-CLS algorithm used to train the text-conditional deep convolutional generative adversarial network. Taken from [Reed et at., 2014](https://arxiv.org/abs/1605.05396).
 
-## Images generrated using this repository
+## Images generated using this repository
 
 | Caption | Ground truth (validation set) | This repository |
 | -------- | ------------------------------| --------------- |
