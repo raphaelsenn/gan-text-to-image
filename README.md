@@ -10,7 +10,7 @@ PyTorch reimplementation of the paper ["Generative Adversarial Text to Image Syn
 
 The dataset can be downloaded from: [102 Category Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
 
-The corresponding captions can be downloaded from: [102 Category Flower Captions](https://github.com/raphaelsenn/gan-text-to-image-synthesis/releases/latest/download/caption-data-flowers-v1.0.0.zip).
+The corresponding captions can be downloaded from: [102 Category Flower Captions](https://github.com/raphaelsenn/gan-text-to-image/releases/latest/download/caption-data-flowers-v1.0.0.zip).
 
 Make sure the the data directory has following tree structure:
 
@@ -78,7 +78,7 @@ The notebook [demo_flowers.py](./demo_flowers.ipynb) illustrates an example usag
 
 The dataset can be downloaded from: [Caltech-UCSD Birds-200-2011 (CUB-200-2011)](https://www.vision.caltech.edu/datasets/cub_200_2011/).
 
-The corresponding captions can be downloaded from: [CUB-200-2011 Captions]( caption-data-cub-v1.0.0.zip).
+The corresponding captions can be downloaded from: [CUB-200-2011 Captions](https://github.com/raphaelsenn/gan-text-to-image/releases/latest/download/caption-data-cub-v1.0.0.zip).
 
 Make sure the data directory has following tree structure:
 
