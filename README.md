@@ -30,7 +30,7 @@ All settings and hyperparameters and be adjusted in [config.py](./flowers/config
 
 ### 1. Precompute GoogLeNet Image Features
 
-To precompute 1024-dimensional pooling units from GoogLeNet by running the script below:
+Precompute 1024-dimensional pooling units from GoogLeNet by running the script below:
 
 ```bash
 python3 ./flowers/precompute_image_features.py
@@ -92,7 +92,7 @@ All settings and hyperparameters and be adjusted in [config.py](./cub/config.py)
 
 ### 1. Precompute GoogLeNet Image Features
 
-To precompute 1024-dimensional pooling units from GoogLeNet by running the script below:
+Precompute 1024-dimensional pooling units from GoogLeNet by running the script below:
 
 ```bash
 python3 ./birds/precompute_image_features.py
